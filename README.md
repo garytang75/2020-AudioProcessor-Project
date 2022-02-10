@@ -1,8 +1,7 @@
 # 2020-AudioProcessor-Project
 Inspired by the audio processing tasks. The audio is presented as an array of numbers in the computer. Array manipulation. 
 
-
-##Description
+## Description of the project
 
 vector Compress(const vector & audio, short threshold, float rate)
 This function returns the compressed version of the given audio.
